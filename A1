@@ -1,0 +1,25 @@
+Teste
+Segunda Linha
+Terceira Linha
+
+git help
+git help <tópico>
+git update-git-for-windows
+git config --global user.name "NOME DO USUÁRIO"
+git config --global user.mail "NOME@dominio"
+git init
+git clone <url>
+git diff <nome do arquivo> #diferença entre os arquivos (---excluido) (+++add)
+git checkout <nome do arquivo> #desfaz modificacoes na doc da Working area
+git reset <nome do arquivo>
+git reset HEAD <nome do arquivo>
+git add #adicona no stage
+git add. #adiciona todos os docs
+git status 
+git commit
+git commit -m
+git commit -am
+git log
+git log --graph
+git shortlog
+git shortlog -ns
